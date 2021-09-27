@@ -13,5 +13,5 @@ jobs:
         uses: rladpwl0512/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_ID: 882bb1b084653a70c83966d9f95960bb
           TIMEZONE: Asia/Seoul
